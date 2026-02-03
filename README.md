@@ -1,6 +1,6 @@
 # NBA Game Prediction Tool
 
-#### Video Demo: <URL HERE>
+#### Video Demo: https://www.youtube.com/watch?v=1FrbCZRw7_o
 
 #### Description:
 
